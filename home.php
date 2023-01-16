@@ -65,10 +65,7 @@ echo date('d-m-Y'); ?> &nbsp; &nbsp; <a href="logout.php" class="btn btn-danger 
                             <a href="?page=rekap"><i class="glyphicon glyphicon-tasks
 "></i> Rekapitulasi Kas</a>
                         </li>
-                        <li>
-                            <a href="?page=user"><i class="glyphicon glyphicon-user
-"></i> Support</a>
-                        </li>
+                       
                     </ul>
                 </div>
             </nav>

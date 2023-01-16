@@ -1,13 +1,13 @@
-# lab_uas
+# UAS-Pemograman-Web-1
  ### Membuat Iuran KAS RT
+ <br>Nama   : Aldo Anggio Abimanyu <br>
+ <br>NIM    : 312110579<br>
+ <br>Kelas  : TI.21.B.1<br>
+ <br>Prodi  : Teknik Informatika<br>
+ <br>Dosen  : Agung Nugroho,S.Kom.,M.Kom.<br>
+ <br>Didalam repository ini terdapat sebuah link dokumentasi yotube, link web page, dan dokumen pdf project UAS Pemrograman WEB 1<br>
 
- ini tampilannya
- ![img](oo/oo1.png)
- ![img](oo/oo2.png)
- ![img](oo/oo3.png)
- ![img](oo/oo4.png)
- ![img](oo/oo5.png)
-
-
+ ###
+ <br>Link web : https://uaskasrtt.000webhostapp.com/index.php<br>
 
  

@@ -7,6 +7,11 @@
  <br>Dosen  : Agung Nugroho,S.Kom.,M.Kom.<br>
  <br>Didalam repository ini terdapat sebuah link dokumentasi yotube, link web page, dan dokumen pdf project UAS Pemrograman WEB 1<br>
 
+ #
+ Login :
+ Username : Aldo
+ Password : 123
+
  ###
  <br>Link web : https://uaskasrtt.000webhostapp.com/index.php<br>
 
